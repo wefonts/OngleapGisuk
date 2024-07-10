@@ -7,3 +7,7 @@
          url("https://cdn.jsdelivr.net/gh/wefonts/OngleapGisuk/OngleapGisuk.ttf") format("truetype");
     font-display: swap;
 }
+
+.OngleapGisuk {
+    font-family: "OngleapGisuk";
+}
