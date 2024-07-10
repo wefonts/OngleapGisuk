@@ -1,5 +1,5 @@
 <pre>
-  @font-face {
+@font-face {
     font-family: "OngleapGisuk";
     font-weight: 300;
     font-style: normal;
@@ -7,6 +7,10 @@
          url("https://cdn.jsdelivr.net/gh/wefonts/OngleapGisuk/OngleapGisuk.woff") format("woff"),
          url("https://cdn.jsdelivr.net/gh/wefonts/OngleapGisuk/OngleapGisuk.ttf") format("truetype");
     font-display: swap;
+}
+
+.OngleapGisuk {
+    font-family: "OngleapGisuk";
 }
 
 </pre>
